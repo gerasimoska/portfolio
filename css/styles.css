@@ -6,12 +6,6 @@ body.active {
   overflow: hidden;
   z-index: -1;
 }
-ul {
-  width: 100%;
-}
-ul li {
-  text-align: justify;
-}
 .no-js #experience-timeline > div {
   background: #fff;
   padding: 10px;
